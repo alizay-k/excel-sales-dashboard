@@ -16,5 +16,5 @@ practice pivot tables, slicers, and dashboard design.
 - Dashboard layout and KPI design
 
 ## Files
-- `sales_dashboard.xlsx`
+- `Sales_Dashboard.xlsx`
 - `Sales_Dashboard.png`
